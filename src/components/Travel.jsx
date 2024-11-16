@@ -39,7 +39,7 @@ const Travel = () => {
           className="w-full h-full object-cover rounded-3xl"
         />
         <div className="absolute inset-0 flex flex-col justify-center items-center text-center p-8 bg-black bg-opacity-40">
-          <h1 className="text-white text-5xl md:text-9xl font-extrabold mb-6">TRAVEL</h1>
+          <h1 className="text-white text-3xl md:text-9xl font-extrabold mb-2">TRAVEL</h1>
           <p className="text-white text-lg md:text-4xl font-semibold max-w-[800px]">
             Turn your travel experience into an itinerary travel package with VYB Store 
             and share it with your true followers.
